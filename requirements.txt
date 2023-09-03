@@ -1,0 +1,14 @@
+torch
+torchvision
+opencv-python
+numpy
+flask
+flask-cors
+pillow
+requests
+gunicorn
+-f https://download.pytorch.org/whl/torch_stable.html
+git+https://github.com/facebookresearch/detectron2.git
+
+
+
